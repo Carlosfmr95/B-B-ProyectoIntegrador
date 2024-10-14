@@ -1,4 +1,4 @@
-﻿# B-B-ProyectoIntegrador
+﻿# B&B-ProyectoIntegrador
 Bits&Bytes
 Integrantes: 
 - Fattorini, Ramiro
