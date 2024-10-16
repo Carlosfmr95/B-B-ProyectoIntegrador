@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 APPID = os.getenv('APIKEY')
-LANG = os.getenv('IDIOMA')
 
 unit = "metric" 
 
@@ -14,7 +13,7 @@ try:
     city = input("+ Ingrese la ciudad de la que desee consultar el clima: ")
     city = city.lower()
 
-    r = requests.get(f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid={APPID}&lang={LANG}&units={unit}')
+    r = requests.get(f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid={APPID}&lang=es&units={unit}')
     weather_dictionary = r.json()
     print(f"""
 ############################################################
