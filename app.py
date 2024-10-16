@@ -10,7 +10,11 @@ city = input("+ Ingrese la ciudad de la que desee consultar el clima: ")
 
 APPID = os.getenv('APIKEY')
 
-r = requests.get(f'https://api.openweathermap.org/data/2.5/weather?q={ciudad}&appid={APPID}&lang={lang}&units={medida}')
+lang = 'es'
+
+medida = 'metric'
+
+r = requests.get(f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid={APPID}&lang={lang}&units={medida}')
 diccionarioClima = r.json()
 
 print(diccionarioClima)
