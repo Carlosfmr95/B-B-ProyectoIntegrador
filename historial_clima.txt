@@ -1,0 +1,490 @@
+[
+    {
+        "name": "Mendoza",
+        "consultas": [
+            {
+                "coord": {
+                    "lon": -68.8272,
+                    "lat": -32.8908
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "cielo claro",
+                        "icon": "01d"
+                    }
+                ],
+                "base": "stations",
+                "main": {
+                    "temp": 26.74,
+                    "feels_like": 25.96,
+                    "temp_min": 26.74,
+                    "temp_max": 26.74,
+                    "pressure": 1010,
+                    "humidity": 21,
+                    "sea_level": 1010,
+                    "grnd_level": 902
+                },
+                "visibility": 10000,
+                "wind": {
+                    "speed": 5.14,
+                    "deg": 110
+                },
+                "clouds": {
+                    "all": 0
+                },
+                "dt": 1730922285,
+                "sys": {
+                    "type": 1,
+                    "id": 8238,
+                    "country": "AR",
+                    "sunrise": 1730885493,
+                    "sunset": 1730934383
+                },
+                "timezone": -10800,
+                "id": 3844421,
+                "name": "Mendoza",
+                "cod": 200,
+                "fecha": "2024-11-06 16:46:54"
+            },
+            {
+                "coord": {
+                    "lon": -68.8272,
+                    "lat": -32.8908
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "cielo claro",
+                        "icon": "01d"
+                    }
+                ],
+                "base": "stations",
+                "main": {
+                    "temp": 26.74,
+                    "feels_like": 25.96,
+                    "temp_min": 26.74,
+                    "temp_max": 26.74,
+                    "pressure": 1010,
+                    "humidity": 21,
+                    "sea_level": 1010,
+                    "grnd_level": 902
+                },
+                "visibility": 10000,
+                "wind": {
+                    "speed": 5.14,
+                    "deg": 110
+                },
+                "clouds": {
+                    "all": 0
+                },
+                "dt": 1730922285,
+                "sys": {
+                    "type": 1,
+                    "id": 8238,
+                    "country": "AR",
+                    "sunrise": 1730885493,
+                    "sunset": 1730934383
+                },
+                "timezone": -10800,
+                "id": 3844421,
+                "name": "Mendoza",
+                "cod": 200,
+                "fecha": "2024-11-06 16:48:48"
+            },
+            {
+                "coord": {
+                    "lon": -68.8272,
+                    "lat": -32.8908
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "cielo claro",
+                        "icon": "01d"
+                    }
+                ],
+                "base": "stations",
+                "main": {
+                    "temp": 26.74,
+                    "feels_like": 25.96,
+                    "temp_min": 26.74,
+                    "temp_max": 26.74,
+                    "pressure": 1010,
+                    "humidity": 21,
+                    "sea_level": 1010,
+                    "grnd_level": 902
+                },
+                "visibility": 10000,
+                "wind": {
+                    "speed": 5.14,
+                    "deg": 110
+                },
+                "clouds": {
+                    "all": 0
+                },
+                "dt": 1730922285,
+                "sys": {
+                    "type": 1,
+                    "id": 8238,
+                    "country": "AR",
+                    "sunrise": 1730885493,
+                    "sunset": 1730934383
+                },
+                "timezone": -10800,
+                "id": 3844421,
+                "name": "Mendoza",
+                "cod": 200,
+                "fecha": "2024-11-06 16:49:19"
+            },
+            {
+                "coord": {
+                    "lon": -68.8272,
+                    "lat": -32.8908
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "cielo claro",
+                        "icon": "01d"
+                    }
+                ],
+                "base": "stations",
+                "main": {
+                    "temp": 26.74,
+                    "feels_like": 25.96,
+                    "temp_min": 26.74,
+                    "temp_max": 26.74,
+                    "pressure": 1010,
+                    "humidity": 21,
+                    "sea_level": 1010,
+                    "grnd_level": 902
+                },
+                "visibility": 10000,
+                "wind": {
+                    "speed": 5.14,
+                    "deg": 110
+                },
+                "clouds": {
+                    "all": 0
+                },
+                "dt": 1730922285,
+                "sys": {
+                    "type": 1,
+                    "id": 8238,
+                    "country": "AR",
+                    "sunrise": 1730885493,
+                    "sunset": 1730934383
+                },
+                "timezone": -10800,
+                "id": 3844421,
+                "name": "Mendoza",
+                "cod": 200,
+                "fecha": "2024-11-06 16:49:41"
+            },
+            {
+                "coord": {
+                    "lon": -68.8272,
+                    "lat": -32.8908
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "cielo claro",
+                        "icon": "01d"
+                    }
+                ],
+                "base": "stations",
+                "main": {
+                    "temp": 26.74,
+                    "feels_like": 25.99,
+                    "temp_min": 26.74,
+                    "temp_max": 26.74,
+                    "pressure": 1011,
+                    "humidity": 22,
+                    "sea_level": 1011,
+                    "grnd_level": 902
+                },
+                "visibility": 10000,
+                "wind": {
+                    "speed": 5.66,
+                    "deg": 140
+                },
+                "clouds": {
+                    "all": 0
+                },
+                "dt": 1730928037,
+                "sys": {
+                    "type": 1,
+                    "id": 8238,
+                    "country": "AR",
+                    "sunrise": 1730885493,
+                    "sunset": 1730934383
+                },
+                "timezone": -10800,
+                "id": 3844421,
+                "name": "Mendoza",
+                "cod": 200,
+                "fecha": "2024-11-06 18:24:49"
+            }
+        ]
+    },
+    {
+        "name": "San Luis",
+        "consultas": [
+            {
+                "coord": {
+                    "lon": -66.3356,
+                    "lat": -33.295
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "cielo claro",
+                        "icon": "01n"
+                    }
+                ],
+                "base": "stations",
+                "main": {
+                    "temp": 18.37,
+                    "feels_like": 18.06,
+                    "temp_min": 18.37,
+                    "temp_max": 18.37,
+                    "pressure": 1014,
+                    "humidity": 69,
+                    "sea_level": 1014,
+                    "grnd_level": 925
+                },
+                "visibility": 10000,
+                "wind": {
+                    "speed": 2.92,
+                    "deg": 1,
+                    "gust": 4.85
+                },
+                "clouds": {
+                    "all": 0
+                },
+                "dt": 1730856317,
+                "sys": {
+                    "country": "AR",
+                    "sunrise": 1730798503,
+                    "sunset": 1730847371
+                },
+                "timezone": -10800,
+                "id": 3837056,
+                "name": "San Luis",
+                "cod": 200,
+                "fecha": "2024-11-05 22:32:51"
+            }
+        ]
+    },
+    {
+        "name": "San Juan",
+        "consultas": [
+            {
+                "coord": {
+                    "lon": -68.5364,
+                    "lat": -31.5375
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "cielo claro",
+                        "icon": "01n"
+                    }
+                ],
+                "base": "stations",
+                "main": {
+                    "temp": 22.13,
+                    "feels_like": 21.34,
+                    "temp_min": 22.13,
+                    "temp_max": 22.13,
+                    "pressure": 1011,
+                    "humidity": 36,
+                    "sea_level": 1011,
+                    "grnd_level": 933
+                },
+                "visibility": 10000,
+                "wind": {
+                    "speed": 5.81,
+                    "deg": 4,
+                    "gust": 9.26
+                },
+                "clouds": {
+                    "all": 0
+                },
+                "dt": 1730856796,
+                "sys": {
+                    "country": "AR",
+                    "sunrise": 1730799207,
+                    "sunset": 1730847723
+                },
+                "timezone": -10800,
+                "id": 3837213,
+                "name": "San Juan",
+                "cod": 200,
+                "fecha": "2024-11-05 22:32:57"
+            }
+        ]
+    },
+    {
+        "name": "C\u00f3rdoba",
+        "consultas": [
+            {
+                "coord": {
+                    "lon": -64.1811,
+                    "lat": -31.4135
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "cielo claro",
+                        "icon": "01n"
+                    }
+                ],
+                "base": "stations",
+                "main": {
+                    "temp": 16.44,
+                    "feels_like": 16.07,
+                    "temp_min": 16.24,
+                    "temp_max": 17.88,
+                    "pressure": 1016,
+                    "humidity": 74,
+                    "sea_level": 1016,
+                    "grnd_level": 959
+                },
+                "visibility": 10000,
+                "wind": {
+                    "speed": 2.57,
+                    "deg": 330
+                },
+                "clouds": {
+                    "all": 0
+                },
+                "dt": 1730856807,
+                "sys": {
+                    "type": 1,
+                    "id": 8226,
+                    "country": "AR",
+                    "sunrise": 1730798175,
+                    "sunset": 1730846664
+                },
+                "timezone": -10800,
+                "id": 3860259,
+                "name": "C\u00f3rdoba",
+                "cod": 200,
+                "fecha": "2024-11-05 22:33:16"
+            }
+        ]
+    },
+    {
+        "name": "Santiago",
+        "consultas": [
+            {
+                "coord": {
+                    "lon": -70.6483,
+                    "lat": -33.4569
+                },
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "cielo claro",
+                        "icon": "01n"
+                    }
+                ],
+                "base": "stations",
+                "main": {
+                    "temp": 21.72,
+                    "feels_like": 21.02,
+                    "temp_min": 18.53,
+                    "temp_max": 21.9,
+                    "pressure": 1016,
+                    "humidity": 41,
+                    "sea_level": 1016,
+                    "grnd_level": 931
+                },
+                "visibility": 10000,
+                "wind": {
+                    "speed": 7.72,
+                    "deg": 210
+                },
+                "clouds": {
+                    "all": 0
+                },
+                "dt": 1730856198,
+                "sys": {
+                    "type": 2,
+                    "id": 2094385,
+                    "country": "CL",
+                    "sunrise": 1730799521,
+                    "sunset": 1730848423
+                },
+                "timezone": -10800,
+                "id": 3871336,
+                "name": "Santiago",
+                "cod": 200,
+                "fecha": "2024-11-05 22:33:27"
+            }
+        ]
+    },
+    {
+        "name": "Paris",
+        "consultas": [
+            {
+                "coord": {
+                    "lon": 2.3488,
+                    "lat": 48.8534
+                },
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "nubes",
+                        "icon": "04n"
+                    }
+                ],
+                "base": "stations",
+                "main": {
+                    "temp": 10.76,
+                    "feels_like": 10.35,
+                    "temp_min": 9.56,
+                    "temp_max": 11.71,
+                    "pressure": 1026,
+                    "humidity": 94,
+                    "sea_level": 1026,
+                    "grnd_level": 1016
+                },
+                "visibility": 9000,
+                "wind": {
+                    "speed": 2.57,
+                    "deg": 320
+                },
+                "clouds": {
+                    "all": 100
+                },
+                "dt": 1730856772,
+                "sys": {
+                    "type": 2,
+                    "id": 2036844,
+                    "country": "FR",
+                    "sunrise": 1730875553,
+                    "sunset": 1730910157
+                },
+                "timezone": 3600,
+                "id": 2988507,
+                "name": "Paris",
+                "cod": 200,
+                "fecha": "2024-11-05 22:33:31"
+            }
+        ]
+    }
+]
